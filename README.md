@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @franktang05
-- 👀  I’m interested in coding
+- 👀  I’m interested in coding!!!
 - 🌱  I’m currently learning Ruby
 - 💞️  I’m looking to collaborate on 🥕
 - 📫  frank.tang@instacart.com
