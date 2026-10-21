@@ -1,10 +1,9 @@
-- 👋 - Hi, I’m @franktang05
-- 👀 - I’m interested in coding!!!
-- 🌱 - I’m currently learning Ruby!!!
-- 💞️ - I’m looking to collaborate on 🥕🥕🥕
-- 📫 - frank.tang@instacart.com
+# Hi, I'm Frank 👋
 
-<!---
-franktang05/franktang05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tech lead at [Instacart](https://www.instacart.com) in New York. I work on the customer-facing backend (search, the home feed, and how people discover retailers), mostly in Ruby and Go.
+
+Lately I've been spending a lot of time on how engineering teams work with AI coding tools.
+
+**Stack:** Ruby · Go · Rails · GraphQL · Postgres
+
+[Website](https://franktang05.github.io) · [Email](mailto:frank.tang@instacart.com)
